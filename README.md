@@ -4,11 +4,11 @@ Welcome to "Introduction to Linear Algebra," an interactive series of Jupyter no
 
 ## Course Structure
 
-The course is structured to provide a solid foundation in linear algebra while emphasizing understanding over rote memorization. Each chapter corresponds to key concepts, with the first chapter dedicated to vector spaces.
+The course is structured to provide a solid foundation in linear algebra while emphasizing understanding over rote memorization or an overemphasis on computation/ determinants. Each chapter corresponds to key concepts, with the first chapter dedicated to vector spaces.
 
 ### Chapter 1: Vector Spaces
 
-- **1A: ℝ^n and ℂ^n**
+- **1A: $\mathbb{R}^n$ and $\mathbb{C}^n$**
   - Introduction to real and complex number systems as they pertain to vector spaces.
 - **1B: Definition of Vector Space**
   - Exploration of the axioms that define a vector space.
@@ -40,7 +40,7 @@ A basic understanding of algebra and calculus is recommended to get the most out
 
 - **Manim**: An animation engine for explanatory math videos. It's used here to visualize linear algebra concepts dynamically.
 - **Jupyter Notebooks**: An open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text.
-
+- **Numpy**: An open-source Linear algebra library for the python language
 ## Contribution
 
 Contributions to improve the course are welcome. If you have suggestions or corrections, please open an issue or a pull request with your changes.
