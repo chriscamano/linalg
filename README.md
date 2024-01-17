@@ -1,6 +1,7 @@
 # Introduction to Linear Algebra: A Manim-Jupyter Series
 
 Welcome to "Introduction to Linear Algebra," an interactive series of Jupyter notebooks crafted to build deep intuition for the concepts that form the bedrock of linear algebra. This course is inspired by Sheldon Axler's renowned textbook, "Linear Algebra Done Right," and aims to present these fundamental ideas in a visual and engaging format using Manim, a powerful mathematical animation library.
+
 ---
 
 ## Course Structure
