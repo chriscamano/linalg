@@ -1,0 +1,6 @@
+numpy
+matplotlib
+manim
+notebook
+ipykernel
+# etc.
