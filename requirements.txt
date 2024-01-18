@@ -3,4 +3,8 @@ matplotlib
 manim
 notebook
 ipykernel
-# etc.
+ffmpeg 
+# conda install -c conda-forge miktex
+# conda install -c main ffmpeg
+
+
