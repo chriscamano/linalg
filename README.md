@@ -39,6 +39,11 @@ This will install the package along with all the dependencies specified in the `
 
 Now your environment is set up, and you can start using the Jupyter notebooks for the linear algebra course.
 
+Manim Debug: 
+Manim was a sensitive install for me I had to 
+
+1. download Miktex at https://miktex.org/download to resolve latex render error 
+2. `conda install -c main ffmpeg` to resolve ffmpeg import error 
 ---
 
 ### Chapter 1: Vector Spaces
